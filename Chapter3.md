@@ -170,7 +170,3 @@ http://www.infoq.com/cn/articles/roa-rest-of-rest
 
 ### 定律五：康威定律
 
-
-
-
- 
