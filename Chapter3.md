@@ -159,7 +159,7 @@ function double (arr) {
 
 ### 12 Factor
 
-### C4 SPOT原则
+
 
 ### AKF扩展立方
 
